@@ -58,3 +58,18 @@ input[type="checkbox"] {
     transform: scale(1.5); 
     margin-left: 10px;
 }
+
+button.delete-task {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  button.delete-task:hover {
+    background-color: #e60000;
+  }
+  
